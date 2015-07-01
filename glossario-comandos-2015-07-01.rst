@@ -62,7 +62,8 @@ ls
 
 
 mkdir
-  Descrição do comando
+  Cria diretório.
+ EX: mkdir -p /var/www/html/so/.antigo/${USER}/
 
 
 nome="fulano
