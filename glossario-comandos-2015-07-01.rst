@@ -33,7 +33,7 @@ exit
 
 
 help
-  Descrição do comando
+  Descrição do comando 
 
 
 HISTTIMEFORMAT="%d/%m/%y
