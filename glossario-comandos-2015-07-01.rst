@@ -9,11 +9,12 @@ Glossário de comandos
 :Data: 01/07/2015
 
 cat
-  Descrição do comando
-
+  Mostra o conteúdo de um ficheiro, como o comando type do MD-DOS, e é muito usado também para concatenar ficheiros, como por   exemplo fazendo cat a.txt b.txt > c.txt” para juntar o ficheiro a.txt e b.txt num único de nome c.txt
+  Este comando imprime na tela o conteúdo do arquivo. 
+  $ cat > arquivo Este comando cria um arquivo recebendo o texto digitado logo após o comando. Para sair do arquivo criado utilize Ctrl + D. 
 
 cd
-  Descrição do comando
+  Serve para alterar o diretório atual.
 
 
 cowsay
@@ -41,8 +42,8 @@ HISTTIMEFORMAT="%d/%m/%y
 
 
 hostname
-  Descrição do comando
-
+  Exibe o nome da máquina.
+  
 
 ifconfig
   Descrição do comando
