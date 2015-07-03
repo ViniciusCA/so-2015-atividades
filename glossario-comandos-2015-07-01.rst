@@ -18,27 +18,27 @@ cd
 
 
 cowsay
-  Descrição do comando
+  Mostra mensagem com desenho em Ascii
 
 
 echo
-  Descrição do comando
+  Serve para imprimir valores
 
 
 env
-  Descrição do comando
+  Exibe as váriaveis de ambiente.
 
 
 exit
-  Descrição do comando
+  Termina a sessão
 
 
 help
-  Descrição do comando 
+  Ajuda
 
 
 HISTTIMEFORMAT="%d/%m/%y
-  Descrição do comando
+  Histórico com data
 
 
 hostname
@@ -46,19 +46,19 @@ hostname
   
 
 ifconfig
-  Descrição do comando
+  Visualizar os ips da nossa máquina, entre outras funções relacionadas com ips
 
 
 last
-  Descrição do comando
+  Indica o último login de utilizadores
 
 
 lastb
-  Descrição do comando
+  Indica todos os ultimos logins
 
 
 ls
-  Descrição do comando
+  Lista o conteúdo de um diretório
 
 
 mkdir
@@ -67,57 +67,57 @@ mkdir
 
 
 nome="fulano
-  Descrição do comando
+  Cria uma variavel e atribui um valor pra ela
 
 
 passswd
-  Descrição do comando
+  mudar a senha
 
 
 pwd
-  Descrição do comando
+  Verifica em eue diretorio você está
 
 
 set
-  Descrição do comando
+  Define variáveis da sessão, ou seja, da shell, na C shell, na bash ou na ksh
 
 
 tree
-  Descrição do comando
+  Mostra a arvore de processos que estão sendo executados
 
 
 tty
-  Descrição do comando
+  Mostrar o nome do arquivo conectado
 
 
 vim
-  Descrição do comando
+  Editor de texto
 
 
 wait
-  Descrição do comando
+  Faz com que um comando espere ate que o outro termine
 
 
 wall
-  Descrição do comando
+  Escreve uma mensagem a outros usuarios
 
 
 which
-  Descrição do comando
+  Exibe o caminho completo na hierarquia de diretorios para os comandos do sistema
+  which sh
 
 
 while
-  Descrição do comando
+  laço de repetição
 
 
 who
-  Descrição do comando
+  Mostra quem está conectado
 
 
 whoami
-  Descrição do comando
+  Mostrao nome do seu usuário
 
-
-    write
-        Descrição do comando
+  write
+    Escrever para outros utilizadores que estejam logados no momento
 
